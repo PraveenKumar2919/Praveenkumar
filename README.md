@@ -35,10 +35,21 @@ class Praveenkumar:
     graduation_year  = 2025
 
     stack = [
-        "Python", "Django", "Django REST Framework",
-        "MySQL", "HTML", "CSS", "JavaScript",
-        "OpenCV", "NumPy", "Pandas", "Matplotlib",
-        "Streamlit", "Tkinter", "Git", "GitHub"
+
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "React.js",
+    "Vite",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "MySQL",
+    "SQLite",
+    "REST APIs",
+    "Git",
+    "GitHub"
+]
     ]
 
     currently_learning = [
@@ -72,8 +83,18 @@ print(me.motto())
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -189,15 +210,45 @@ print(me.motto())
      11. FEATURED PROJECTS
 ════════════════════════════════════════════════════════════ -->
 
-### 🚀 Featured Projects
 
 <div align="center">
+## 🚀 Featured Projects
 
-| Project | Tech Stack | Highlights |
-|:---:|:---:|:---|
-| 🖊️ **[Adaptive MobileNet Framework for Human Signature Recognition](#)** | `Python` `OpenCV` `NumPy` `Pandas` `MobileNet` | • 90%+ validation accuracy<br>• Processed & augmented 1,000+ signature images<br>• Structured data handling with Pandas preprocessing |
-| 📦 **[Inventory Management Backend System using Django](#)** | `Python` `Django` `DRF` `MySQL` `HTML` `CSS` | • Manages 500+ inventory records with secure CRUD<br>• RESTful APIs for product & stock management<br>• Role-based auth (admin + staff) with pagination & search |
+### 🌐 Riyadvi Full Stack Company Website
 
+**Tech Stack:** React.js • Vite • Django REST Framework • SQLite • Axios • Vercel • Render
+
+- Developed a responsive company website using React.js and Django REST Framework.
+- Built REST APIs for Blogs, Careers, and Contact modules.
+- Integrated frontend and backend using Axios.
+- Deployed frontend on Vercel and backend on Render.
+
+🔗 Live Demo:
+https://riyadvi-fullstack-website.vercel.app
+
+📂 Repository:
+https://github.com/PraveenKumar2919/Riyadvi-fullstack-Website
+
+---
+
+### 📦 Inventory Management Backend System
+
+**Tech Stack:** Python • Django • DRF • MySQL
+
+- Inventory CRUD
+- REST APIs
+- Role Based Authentication
+- Pagination & Search
+
+---
+
+### ✍ Adaptive MobileNet Framework for Human Signature Recognition
+
+**Tech Stack:** Python • OpenCV • Pandas • NumPy • MobileNet
+
+- 90%+ Validation Accuracy
+- Image Processing
+- Signature Verification
 </div>
 
 ---
@@ -238,13 +289,34 @@ print(me.motto())
 <div align="center">
 
 ![REST API](https://img.shields.io/badge/REST%20API%20Design-005571?style=flat-square&logo=fastapi&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker%20Basics-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ![System Design](https://img.shields.io/badge/System%20Design-6E4C9E?style=flat-square&logo=diagram&logoColor=white)
+
 ![DSA](https://img.shields.io/badge/DSA%20with%20Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![System Design](https://img.shields.io/badge/System%20Design-6E4C9E?style=flat-square)
+
+![DSA](https://img.shields.io/badge/DSA-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </div>
 
 ---
+# 🌍 Portfolio
+
+🚀 Live Website
+
+https://riyadvi-fullstack-website.vercel.app
+
+📂 GitHub Repository
+
+https://github.com/PraveenKumar2919/Riyadvi-fullstack-Website
 
 ### 📬 Let's Connect
 
