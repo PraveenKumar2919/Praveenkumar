@@ -152,6 +152,9 @@ print(me.motto())
 ### 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=praveenkumar-vr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenKumar2919&show_icons=true&theme=tokyonight)]
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumar2919&layout=compact&theme=tokyonight)]
+
 
 </div>
 
@@ -297,6 +300,7 @@ https://github.com/PraveenKumar2919/Riyadvi-fullstack-Website
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrpraveenkumar2003@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkumar-v-r)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar-vr)
 
@@ -315,4 +319,4 @@ https://github.com/PraveenKumar2919/Riyadvi-fullstack-Website
 ════════════════════════════════════════════════════════════ -->
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/praveenkumar-vr)
-# Praveenkumar
+# Praveenkumar V R
