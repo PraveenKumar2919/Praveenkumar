@@ -141,33 +141,7 @@ print(me.motto())
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     7. STREAK STATS
-════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=praveenkumar-vr&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     8. ACTIVITY GRAPH
-════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar-vr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════
      9. TROPHY WALL
